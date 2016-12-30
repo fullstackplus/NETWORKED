@@ -14,9 +14,7 @@ Copenhagen, 24 December 2016
 </blockquote>
 
 ##Challenge #1
-There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices[^1].
-
-[^1]: https://en.wikipedia.org/wiki/Escalation_of_commitment
+There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices(https://en.wikipedia.org/wiki/Escalation_of_commitment).
 
 The result: a lot of frustration and lost productivity for the most capable and proactive developers; for companies, no stimulus to challenge the status quo.
 
@@ -53,9 +51,7 @@ Below is a 4-point ideological outline of a modern, collaborative / networked, d
 ###1. Market positioning
 The main aim of the company will be to sell innovative technical solutions to clients who are ahead of the curve (and thus ready to adopt new and better technologies); and to expand the pool of these clients via targeted sales and marketing. Education-based marketing will play a major role here.
 
-Following the Pareto principle, the early adopters are always in the minority of a marketplace[^2]. The company will target the innovators and the early adopters (companies), because it is composed of such (developers).
-
-[^2]: https://en.wikipedia.org/wiki/Technology_adoption_life_cycle
+Following the Pareto principle, the early adopters are always in the minority of a marketplace (https://en.wikipedia.org/wiki/Technology_adoption_life_cycle). The company will target the innovators and the early adopters (companies), because it is composed of such (developers).
 
 ###2. Organization
 According to Peter Drucker, the only two things that produce value in a given company are 1) innovation and 2) marketing. All other activities are costs. Reflecting this principle, this company will be organized around the two activities of 1) software innovation and 2) the sales & marketing of these solutions. 
@@ -69,9 +65,9 @@ To sum up, the organizational vision of this company is to create an environment
 This is an innovation or R&D lab model of organization, which surprisingly few software companies are using today.
 
 ###3. Time management
-A while ago, Google introduced the concept of “20% time”[^3]. This is an arrangement by which developers employed at a company are free to work on whatever side project(s) they fancy during 20% of the workweek (on Fridays to be exact). This generates double value for the company: 
+A while ago, Google introduced the concept of “20% time”. This is an arrangement by which developers employed at a company are free to work on whatever side project(s) they fancy during 20% of the workweek (on Fridays to be exact). This generates double value for the company: 
 
-[^3]: At the time of writing, Google seems to have abandoned this scheme. 
+(**NB**. At the time of writing, Google seems to have abandoned this scheme.)
 
 1. The developers are free to explore topics of interests and pet projects at no personal risk. These creative breaks recharge their mental batteries and drive self-supervised learning, thus resulting in the developers' improved productivity.
 2. Should the pet project turn out to be a hit, the company gets to add a new product to their suite. In fact, Google's Gmail was born in this manner. 
@@ -98,17 +94,11 @@ This company can be a cooperative or a partnership — any structure that ensure
 Extending this line of thinking, one could imagine that the company, once and if it accumulates enough capital, could serve as a private fund for various kinds of initiatives — eliminating the need for external investors.
 
 ##Further reading
-* *Why Self-Organization Is the Future of Software Development*, by Josiah Humphrey. Entrepreneur.com, December 1, 2015. 
+*Why Self-Organization Is the Future of Software Development*, by Josiah Humphrey. Entrepreneur.com, December 1, 2015. URL: https://www.entrepreneur.com/article/252819
 
-URL: https://www.entrepreneur.com/article/252819
+*Correctly Orienting the Recruiting Org to the Business*, by Eric B. Merritt. URL: http://www.ericbmerritt.com/2016/10/28/orienting-the-recruiting-org-to-the-business.html
 
-* *Correctly Orienting the Recruiting Org to the Business*, by Eric B. Merritt.
-
-URL: http://www.ericbmerritt.com/2016/10/28/orienting-the-recruiting-org-to-the-business.html
-
-##About me
-I'm a full-stack web developer with several entrepreneurial projects in the pipeline. In spite of this, I don't yet have the degree of professional or financial freedom that I value. In spite of being experienced, productive, and creative, I struggle with finding work that will sustain me during the time when I develop my own projects. The present initiative is an attempt at solving this problem.
-
+##Got feedback?
 James Abbott
 (twitter) @abbottjam
 (web) http://www.jamesabbottdd.com/contact-me
