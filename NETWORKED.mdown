@@ -14,7 +14,7 @@ Copenhagen, 24 December 2016
 </blockquote>
 
 ##Challenge #1
-There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices(https://en.wikipedia.org/wiki/Escalation_of_commitment).
+There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices (https://en.wikipedia.org/wiki/Escalation_of_commitment).
 
 The result: a lot of frustration and lost productivity for the most capable and proactive developers; for companies, no stimulus to challenge the status quo.
 
@@ -67,10 +67,10 @@ This is an innovation or R&D lab model of organization, which surprisingly few s
 ###3. Time management
 A while ago, Google introduced the concept of “20% time”. This is an arrangement by which developers employed at a company are free to work on whatever side project(s) they fancy during 20% of the workweek (on Fridays to be exact). This generates double value for the company: 
 
-(**NB**. At the time of writing, Google seems to have abandoned this scheme.)
-
 1. The developers are free to explore topics of interests and pet projects at no personal risk. These creative breaks recharge their mental batteries and drive self-supervised learning, thus resulting in the developers' improved productivity.
 2. Should the pet project turn out to be a hit, the company gets to add a new product to their suite. In fact, Google's Gmail was born in this manner. 
+
+(**NB**. At the time of writing, Google seems to have abandoned this scheme.)
 
 With “20% time” as inspiration, I propose to create a collaborative, networked IT company where several top-notch IT, design, and business professionals join forces in order to focus on: 
 
@@ -100,5 +100,7 @@ Extending this line of thinking, one could imagine that the company, once and if
 
 ##Got feedback?
 James Abbott
+
 (twitter) @abbottjam
+
 (web) http://www.jamesabbottdd.com/contact-me
