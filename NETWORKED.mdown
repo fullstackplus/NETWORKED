@@ -1,0 +1,114 @@
+Copenhagen, 24 December 2016
+
+#NETWORKED
+– joining forces to succeed individually 
+
+<blockquote>
+    Both B2B and B2C are dead. It is now the age of P2P (people to people)
+    <footer><cite>— MIKE MUHNEY (ACT! AND VIPORBIT SOFTWARE)</cite></footer>
+</blockquote>
+
+<blockquote>
+    The ability to get things done with collaborative networks is the next evolution in human productivity.
+    <footer><cite>— MICHAEL LEAVITT AND RICH MCKEOWN (FINDING ALLIES, BUILDING ALLIANCES)</cite></footer>
+</blockquote>
+
+##Challenge #1
+There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices[^1].
+
+[^1]: https://en.wikipedia.org/wiki/Escalation_of_commitment
+
+The result: a lot of frustration and lost productivity for the most capable and proactive developers; for companies, no stimulus to challenge the status quo.
+
+##Challenge #2
+There are currently no sustainable models that enable capable developers to finance their own entrepreneurial IT projects by bootstrapping (meaning achieving maximum effect with the smallest of means). 
+
+A developer with an idea for an app or any other online business (educational product, media website, online store selling physical or digital goods) has the following options:
+
+1. Work at night, financing the pet project via revenue brought in by client work
+2. Save up by doing client work and finance the project out of own pocket
+3. Crowdfund on platforms like Kickstarter
+4. Apply for external funding (angel investors, venture capital, etc).
+
+While these solutions do work (either individually or by combining them), they still have many drawbacks. 
+
+Firstly, a capable developer may not need external funding at at all — only time, money, and the ability to focus on her / his project. 
+
+Second, most of these solutions will put a lot of stress on the developer during the pet project's incubation stage. They also assume that the flow of work that the developer must do to put food on the table during the incubation phase (while the pet project isn't yet bringing in any money) is stable and unchanging. Those of us who have tried freelancing know that this is never the case. The supply of jobs is fluctuating, and marketing one's freelance business is a job into itself. All of this leaves little time and energy for the pet project. 
+
+And finally, when one is lucky to find a freelance job or contract, it is often so demanding that it leaves no time and energy for the pet project, either.
+
+##Opportunity #1
+Remote working is on the rise and soon, one's geographical coordinates will not be the determining factor for one's work.
+
+##Opportunity #2
+There is enormous potential in flat, non-corporate, networked, voluntary collaborations between professionals, as well as in forgotten but tried-and-true company structures such as cooperatives in which the **workers own the company**.
+
+##Opportunity #3
+A wealth of disruptive technologies is on the way — there is a need for developers who aren't afraid to experiment with the latest and best, to learn and adapt quickly and to offer innovative solutions as first movers. This experimentation requires *a surplus of time and attention* — which are scarce commodities in a standard workplace.
+
+##The solution
+Below is a 4-point ideological outline of a modern, collaborative / networked, developer-owned company with “innovation reserve” as focus.
+
+###1. Market positioning
+The main aim of the company will be to sell innovative technical solutions to clients who are ahead of the curve (and thus ready to adopt new and better technologies); and to expand the pool of these clients via targeted sales and marketing. Education-based marketing will play a major role here.
+
+Following the Pareto principle, the early adopters are always in the minority of a marketplace[^2]. The company will target the innovators and the early adopters (companies), because it is composed of such (developers).
+
+[^2]: https://en.wikipedia.org/wiki/Technology_adoption_life_cycle
+
+###2. Organization
+According to Peter Drucker, the only two things that produce value in a given company are 1) innovation and 2) marketing. All other activities are costs. Reflecting this principle, this company will be organized around the two activities of 1) software innovation and 2) the sales & marketing of these solutions. 
+
+The employment of project and people managers (SCRUM, HR, etc), and other non-producing roles with roots in corporate bureaucracies will avoided. Instead, we will empower the developers with the applied knowledge on how to sell, how to estimate and manage projects, and how to recruit collaborators, external developers, or complementary competencies of any sort. 
+
+The motto is: “Everyone codes; and everyone sells”.
+
+To sum up, the organizational vision of this company is to create an environment in which great developers are free to experiment with the best technologies for private and client projects — thus creating an excess of knowledge and experience that will create and maintain the company's competitive edge. 
+
+This is an innovation or R&D lab model of organization, which surprisingly few software companies are using today.
+
+###3. Time management
+A while ago, Google introduced the concept of “20% time”[^3]. This is an arrangement by which developers employed at a company are free to work on whatever side project(s) they fancy during 20% of the workweek (on Fridays to be exact). This generates double value for the company: 
+
+[^3]: At the time of writing, Google seems to have abandoned this scheme. 
+
+1. The developers are free to explore topics of interests and pet projects at no personal risk. These creative breaks recharge their mental batteries and drive self-supervised learning, thus resulting in the developers' improved productivity.
+2. Should the pet project turn out to be a hit, the company gets to add a new product to their suite. In fact, Google's Gmail was born in this manner. 
+
+With “20% time” as inspiration, I propose to create a collaborative, networked IT company where several top-notch IT, design, and business professionals join forces in order to focus on: 
+
+* Selling the best technological solutions to the best customers (regardless of where in the world they are located).
+* Securing this high-profile work in order to generate the time, energy, and money to focus on our pet projects on the side.
+
+Like Google, we will have 20% time (or similar) to work on personal projects. Unlike Google, these projects will be our own — meaning each individual developer will own his or her project completely and the parent company will have no ownership or other claim to them. 
+
+The company will thus serve as an umbrella for both the shared work and the individual projects. The shared projects will be company-owned; the individual projects will be owned by their respective authors.
+
+###4. Legal structure
+This company can be a cooperative or a partnership — any structure that ensures: 
+
+1. a flat organization 
+2. complete parity of participants
+3. each and every participant is equally vested in the company's success
+4. the collaborators own the company — not vice versa
+5. focus on revenue and profitability, collectively and for each individual member
+6. the company is just a vehicle — for professional fulfillment, quality lifestyle, and personal freedom.
+
+Extending this line of thinking, one could imagine that the company, once and if it accumulates enough capital, could serve as a private fund for various kinds of initiatives — eliminating the need for external investors.
+
+##Further reading
+* *Why Self-Organization Is the Future of Software Development*, by Josiah Humphrey. Entrepreneur.com, December 1, 2015. 
+
+URL: https://www.entrepreneur.com/article/252819
+
+* *Correctly Orienting the Recruiting Org to the Business*, by Eric B. Merritt.
+
+URL: http://www.ericbmerritt.com/2016/10/28/orienting-the-recruiting-org-to-the-business.html
+
+##About me
+I'm a full-stack web developer with several entrepreneurial projects in the pipeline. In spite of this, I don't yet have the degree of professional or financial freedom that I value. In spite of being experienced, productive, and creative, I struggle with finding work that will sustain me during the time when I develop my own projects. The present initiative is an attempt at solving this problem.
+
+James Abbott
+(twitter) @abbottjam
+(web) http://www.jamesabbottdd.com/contact-me
