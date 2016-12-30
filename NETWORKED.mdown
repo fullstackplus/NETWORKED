@@ -5,12 +5,12 @@ Copenhagen, 24 December 2016
 
 <blockquote>
     Both B2B and B2C are dead. It is now the age of P2P (people to people)
-    <footer><cite>— MIKE MUHNEY (ACT! AND VIPORBIT SOFTWARE)</cite></footer>
+    <footer><cite>— *MIKE MUHNEY (ACT! AND VIPORBIT SOFTWARE)*</cite></footer>
 </blockquote>
 
 <blockquote>
     The ability to get things done with collaborative networks is the next evolution in human productivity.
-    <footer><cite>— MICHAEL LEAVITT AND RICH MCKEOWN (FINDING ALLIES, BUILDING ALLIANCES)</cite></footer>
+    <footer><cite>— *MICHAEL LEAVITT AND RICH MCKEOWN (FINDING ALLIES, BUILDING ALLIANCES)*</cite></footer>
 </blockquote>
 
 ##Challenge #1
