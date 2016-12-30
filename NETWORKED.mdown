@@ -17,6 +17,8 @@ Copenhagen, 24 December 2016
     <footer><cite>— <em>MICHAEL LEAVITT AND RICH MCKEOWN (FINDING ALLIES, BUILDING ALLIANCES)</em></cite></footer>
 </blockquote>
 
+<br />
+
 ##Challenge #1
 There is a gap in how early new, better technologies become available; and how fast most companies adopt them. At the same time, there are developers who are early adopters and want to work with the “latest tech” as soon as it comes out. These developers often have a problem. They know that they are capable of delivering superior solutions because they are ahead of the curve; yet they have trouble finding companies to sell to — because most companies' IT systems are driven by a legacy mindset, i.e. justified by past choices (https://en.wikipedia.org/wiki/Escalation_of_commitment).
 
